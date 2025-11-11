@@ -1,40 +1,39 @@
-🥗 NutriDash: Comprehensive Nutritional Data Dashboard
+# 🥗 NutriDash: Comprehensive Nutritional Data Dashboard
 
-NutriDash is a dynamic and interactive data visualization project created using Microsoft Power BI. It is designed to transform raw nutritional data into actionable visual reports, helping users easily monitor, analyze, and understand key dietary trends.
+[cite_start]**NutriDash** is a dynamic and interactive data visualization project created using **Microsoft Power BI**[cite: 1, 6]. It is designed to transform raw nutritional data into actionable visual reports, helping users easily monitor, analyze, and understand key dietary trends.
 
+## ✨ Project Overview
 
+[cite_start]This repository contains the source file for the NutriDash dashboard (`ptf20.pbix`), which is built on a robust data model [cite: 6] suitable for querying and reporting on various nutritional metrics. [cite_start]The visuals are enhanced by custom aesthetic elements, providing a clean and user-friendly experience[cite: 4, 6].
 
-✨ Project Overview
-This repository contains the source file for the NutriDash dashboard, which is built on a robust data model suitable for querying and reporting on various nutritional metrics. The visuals are enhanced by custom aesthetic elements, providing a clean and user-friendly experience.
+## 🚀 Getting Started
 
-
-🚀 Getting Started
 To view and interact with the NutriDash dashboard, you need to use Power BI Desktop.
 
-Prerequisites
-Microsoft Power BI Desktop: Required to open the .pbix file.
+### Prerequisites
 
-Installation and Usage
-Clone the Repository:
+* **Microsoft Power BI Desktop:** Required to open the `.pbix` file.
 
-Bash
+### Installation and Usage
 
-git clone https://github.com/magno-rianne/NutriDash.git
-Open the File: Navigate to the cloned folder and open the file named ptf20.pbix in Power BI Desktop.
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/magno-rianne/NutriDash.git](https://github.com/magno-rianne/NutriDash.git)
+    ```
+2.  **Open the File:** Navigate to the cloned folder and open the file named `ptf20.pbix` in Power BI Desktop.
+3.  **Explore the Dashboard:** Once loaded, you can explore the various report pages, use the built-in slicers, and interact with the charts to filter and analyze the data.
 
-Explore the Dashboard: Once loaded, you can explore the various report pages, use the built-in slicers, and interact with the charts to filter and analyze the data.
+## 📊 Sample Metrics & Analysis (Hypothetical)
 
-📊 Sample Metrics & Analysis (Hypothetical)
-Calorie intake tracking and distribution.
+* Calorie intake tracking and distribution.
+* Macronutrient (Protein, Fats, Carbs) consumption trends over time.
+* Vitamin and mineral deficiency risk analysis.
+* Comparison of dietary goals versus actual consumption.
 
-Macronutrient (Protein, Fats, Carbs) consumption trends over time.
+## 🤝 Contribution
 
-Vitamin and mineral deficiency risk analysis.
-
-Comparison of dietary goals versus actual consumption.
-
-🤝 Contribution
 If you find ways to improve the dashboard's design, model, or analysis (e.g., adding new metrics or improving performance), feel free to fork this repository and submit a pull request!
 
-📄 License
-This project is released under the MIT License (as recommended). See the LICENSE file for details.
+## 📄 License
+
+This project is released under the **MIT License**. See the `LICENSE` file for details.

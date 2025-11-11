@@ -1,10 +1,10 @@
 # 🥗 NutriDash: Comprehensive Nutritional Data Dashboard
 
-**NutriDash** is a dynamic and interactive data visualization project created using **Microsoft Power BI**[cite: 1, 6]. It is designed to transform raw nutritional data into actionable visual reports, helping users easily monitor, analyze, and understand key dietary trends.
+**NutriDash** is a dynamic and interactive data visualization project created using **Microsoft Power BI**. It is designed to transform raw nutritional data into actionable visual reports, helping users easily monitor, analyze, and understand key dietary trends.
 
 ## ✨ Project Overview
 
-This repository contains the source file for the NutriDash dashboard (`nutridash.pbix`), which is built on a robust data model [cite: 6] suitable for querying and reporting on various nutritional metrics. [cite_start]The visuals are enhanced by custom aesthetic elements, providing a clean and user-friendly experience[cite: 4, 6].
+This repository contains the source file for the NutriDash dashboard (`nutridash.pbix`), which is built on a robust data model suitable for querying and reporting on various nutritional metrics. The visuals are enhanced by custom aesthetic elements, providing a clean and user-friendly experience.
 
 ## 🚀 Getting Started
 

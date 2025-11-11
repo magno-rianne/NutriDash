@@ -1,2 +1,40 @@
-# NutriDash
-NutriDash is a Microsoft Power BI dashboard providing dynamic, comprehensive nutritional data analysis. It features an interactive layout, custom reports, and an extensible data model for monitoring key dietary and health trends. Easily visualize and analyze your nutrition data with this user-friendly tool.
+🥗 NutriDash: Comprehensive Nutritional Data Dashboard
+
+NutriDash is a dynamic and interactive data visualization project created using Microsoft Power BI. It is designed to transform raw nutritional data into actionable visual reports, helping users easily monitor, analyze, and understand key dietary trends.
+
+
+
+✨ Project Overview
+This repository contains the source file for the NutriDash dashboard, which is built on a robust data model suitable for querying and reporting on various nutritional metrics. The visuals are enhanced by custom aesthetic elements, providing a clean and user-friendly experience.
+
+
+🚀 Getting Started
+To view and interact with the NutriDash dashboard, you need to use Power BI Desktop.
+
+Prerequisites
+Microsoft Power BI Desktop: Required to open the .pbix file.
+
+Installation and Usage
+Clone the Repository:
+
+Bash
+
+git clone https://github.com/magno-rianne/NutriDash.git
+Open the File: Navigate to the cloned folder and open the file named ptf20.pbix in Power BI Desktop.
+
+Explore the Dashboard: Once loaded, you can explore the various report pages, use the built-in slicers, and interact with the charts to filter and analyze the data.
+
+📊 Sample Metrics & Analysis (Hypothetical)
+Calorie intake tracking and distribution.
+
+Macronutrient (Protein, Fats, Carbs) consumption trends over time.
+
+Vitamin and mineral deficiency risk analysis.
+
+Comparison of dietary goals versus actual consumption.
+
+🤝 Contribution
+If you find ways to improve the dashboard's design, model, or analysis (e.g., adding new metrics or improving performance), feel free to fork this repository and submit a pull request!
+
+📄 License
+This project is released under the MIT License (as recommended). See the LICENSE file for details.
